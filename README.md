@@ -1,7 +1,7 @@
 # Monkez2D
 ## Installation Process:
-  - download Dev C++ from [this link](https://sourceforge.net/projects/orwelldevcpp/)
-  - then, open the `Monkez2D.dev` file
-  - ENJOY!!!
+  - Download Dev C++ from [this link](https://sourceforge.net/projects/orwelldevcpp/)
+  - Then, open the `Monkez2D.dev` file
+  - And start creating!!!
 ## Engine Tutorials
  - Example Text
